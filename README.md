@@ -58,7 +58,7 @@ The algorithm ensures that the output fraction is in its simplest form due to th
 
 Applications in Practice:
 
-Irrational Number Approximation: Approximate numbers like , , or irrational roots.
+Irrational Number Approximation: Approximate numbers like pi or irrational roots.
 
 Music Theory: Rational tuning systems depend on precise fractional ratios.
 
